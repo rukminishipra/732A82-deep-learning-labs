@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+# course data sets are not part of this repository
+*.npy
+*.mat
+ray_results/
